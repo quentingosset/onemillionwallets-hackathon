@@ -8,12 +8,15 @@ Being mainly a JAVA and web developer I had never had the opportunity to learn F
 ## Building
 
 Android (armeabi-v7a): `flutter build apk`
+
 Android (arm64-v8a): `flutter build apk --target=android-arm64`
+
 iOS: `flutter build ios`
+
 
 If you have a connected device or emulator you can run and deploy the app with `flutter run`
 
 ## License
 
-- This application uses the code base of an open-source crypto wallet called Kalium which is licensed under the MIT license.
+- This application uses the code base of an open-source crypto wallet called [Kalium](https://github.com/BananoCoin/kalium_wallet_flutter) which is licensed under the MIT license.
 - The new code written from the Kalium base to realize this hackathon is open-source.
