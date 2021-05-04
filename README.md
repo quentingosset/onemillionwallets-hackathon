@@ -3,6 +3,7 @@
 
 
 PRICE WIN : 1000$
+
 PRESS : https://www.covalenthq.com/blog/omw-avalanche-winners-announced/
 
 
